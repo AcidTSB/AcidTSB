@@ -54,6 +54,7 @@ Tools                : Git, GitHub, Docker, Postman
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
 
@@ -75,6 +76,8 @@ A traceability system for agricultural products, built as an academic and portfo
 * Audit-oriented system design
 
 **Tech stack:** Java, Spring Boot, MySQL, Docker, React
+
+**Repository:** [AgriTrace]((https://github.com/AcidTSB/AgriTraceChain))
 
 ---
 
@@ -98,15 +101,13 @@ A desktop application for managing audio and music production projects.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
+I use GitHub to document my learning process, academic projects, and portfolio work.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AcidTSB&show_icons=true&theme=tokyonight&hide_border=true" />
+Currently, I’m focusing on building practical projects, writing cleaner documentation, and improving my development workflow step by step.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcidTSB&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+---
 
 ## Contact
 
@@ -180,6 +181,12 @@ Hệ thống truy xuất nguồn gốc nông sản, được xây dựng như m�
 **Repository:** [Sketchy](https://github.com/AcidTSB/Sketchy)
 
 ---
+
+## Hoạt động trên GitHub
+
+Mình sử dụng GitHub để ghi lại quá trình học tập, các đồ án học thuật và những dự án dùng cho portfolio cá nhân.
+
+Hiện tại mình đang tập trung xây dựng các dự án thực tế, viết tài liệu rõ ràng hơn và cải thiện quy trình làm việc từng bước.
 
 </details>
 
