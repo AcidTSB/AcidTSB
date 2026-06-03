@@ -160,6 +160,8 @@ Hệ thống truy xuất nguồn gốc nông sản, được xây dựng như m�
 
 **Công nghệ:** Java, Spring Boot, MySQL, Docker, React
 
+**Repository:** [AgriTrace](https://github.com/AcidTSB/AgriTraceChain)
+
 ---
 
 ### Sketchy
