@@ -77,7 +77,7 @@ A traceability system for agricultural products, built as an academic and portfo
 
 **Tech stack:** Java, Spring Boot, MySQL, Docker, React
 
-**Repository:** [AgriTrace]((https://github.com/AcidTSB/AgriTraceChain))
+**Repository:** [AgriTrace](https://github.com/AcidTSB/AgriTraceChain)
 
 ---
 
